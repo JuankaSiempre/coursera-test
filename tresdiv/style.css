@@ -1,87 +1,63 @@
-h1 {
-  text-align: center;
-  }
-  h3  {
-  
-  
-  border: black 3px solid;
-  margin: 0px 0px 0px 600px;
-  padding-top: 10px;
-  width: 120px;
-  padding-right: 15px;
-  font-size: 16px;
-  height: 40px;
-  text-align: center;
-  float: right;
-  
-  
 
-  }
-
-  #primero {
-background-color:pink;
-
-  }
-
-  #segundo {
-      background-color: brown;
-      color: white;
-          }
-
-          #tercero {
-              background-color: yellow;
-              
-                  }
-
-
-  
-  section {
-  font-size: 12px;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  width: 360px;
-  text-align: justify;
-  height: 155px;
-  float: left;
-  padding: 0px 0px 10px 10px;
-  margin-left: 28px;
-  margin-right: 20px;
-  margin-top: 40px;
-  border: black 3px solid;
-  background-color: gray;
-  font-weight: bold;
-  
-  }
-  * {
-  box-sizing: border-box;
-  }
-div {
-margin: 0px 0px 0px 0px;
-padding-top: 0px;
+* {
+box-sizing: border-box;
 }
 
 body {
 
+  margin: 23px;
+}
+
+.row {
+width: 100%;
+}
+
+h1 {
+text-align: center;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+#loa {
+border: black solid 2px;
+margin-right: 20px;
+background-color: paleturquoise;
+
+
 
 
 }
 
-.cuarto {
+#c {
+background-color: lightcyan;
 
-height: 20px;
-width: 1270px;
-background-color: gray;
-margin-left: 0px;
+}
 
+#b {
+
+background-color: lightseagreen;
+
+}
+
+#s {
+background-color: lightyellow;
 }
 
 
 
+h3 {
 
+border: solid 2px black;
 
+text-align: center;
+margin-left: 70%;
+height: 30px;
+margin-top: 0%;
+}
 
-
-
-
+p {
+text-align: justify;
+}
 
 
 
