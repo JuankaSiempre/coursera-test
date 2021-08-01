@@ -2,12 +2,39 @@
 box-sizing: border-box;
 }
 
+.row {
+width: 100%;
+
+}
+
 section {
-border: 1px solid black;
+float: left;
+border: 3px solid black;
+margin: 20px 20px 20px 20px;
+height: 190px;
+background-color: cornflowerblue;
+
+}
+
+
+h3  {
+text-align: center;
+
+background-color: chartreuse;
+width: auto;
+margin-left: 70%;
+margin-top: 0%;
+height: 30;
+
 
 
 }
 
+p {
+text-align: justify;
+
+
+}
 /* Desktop view options */
 
 @media (min-width: 992px) {
