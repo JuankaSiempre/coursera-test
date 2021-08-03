@@ -1,0 +1,51 @@
+.jumbotron {
+background-color: gray;
+
+
+
+
+
+}
+
+.navbar {
+background-color: gray;
+
+
+}
+
+.navbar-toggler {
+background-color:burlywood;
+
+}
+
+
+.titulo {
+color: black;
+}
+
+.chiquillo {
+font-size: 18px;
+text-align: center;
+}
+
+
+.unicos {
+
+padding-left: 20%;
+padding-right: 20%;
+
+
+}
+
+.chito {
+font-size: 12px;
+text-align: justify;
+}
+
+a:hover {
+color: khaki;
+}
+button:hover {
+    color: lightblue;
+    background-color: navy;
+    }
